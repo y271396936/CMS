@@ -1,0 +1,33 @@
+{
+  "code": 200,
+  "data": [{
+    "title": {
+      "parentTitle": "下午茶",
+      "subTitle": "coffee"
+    },
+    "cakeList": [{
+      "id": 501,
+      "imgUrl": "http://static1.mescake.com/mobile/goods/list/115-1.jpg",
+      "title": "薰衣草奶酪蛋糕+精品挂耳咖啡",
+      "desc": "",
+      "price": "¥49.00",
+      "sold": 0
+    },
+    {
+      "id": 502,
+      "imgUrl": "http://static1.mescake.com/mobile/goods/list/114-1.jpg",
+      "title": "拿破仑蛋糕+精品挂耳咖啡",
+      "desc": "",
+      "price": "¥49.00",
+      "sold": 0
+    },
+    {
+      "id": 503,
+      "imgUrl": "http://static1.mescake.com/mobile/goods/list/114-1.jpg",
+      "title": "百香果慕斯蛋糕+精品挂耳咖啡",
+      "desc": "",
+      "price": "¥49.00",
+      "sold": 0
+    }]
+  }]
+}

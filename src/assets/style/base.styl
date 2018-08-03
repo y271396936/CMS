@@ -1,0 +1,21 @@
+.f_l {
+  float: left;
+}
+.f_r {
+  float: right;
+}
+/*伪元素清除浮动*/
+.clearfix:before, .clearfix:after {
+  content: "";
+  display: table;
+}
+.clearfix:after {
+  clear: both;
+}
+.clearfix {
+  *zoom: 1; /*IE6\8*/
+}
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}

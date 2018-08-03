@@ -1,0 +1,41 @@
+{
+  "code": 200,
+  "data": [{
+    "title": {
+      "parentTitle": "生日周边",
+      "subTitle": "surround"
+    },
+    "cakeList": [{
+      "id": 601,
+      "imgUrl": "http://static1.mescake.com/mobile/goods/list/119-1.jpg",
+      "title": "花环-释放青春",
+      "desc": "花环释放青春",
+      "price": "¥108.00",
+      "sold": 1
+    },
+    {
+      "id": 602,
+      "imgUrl": "http://static1.mescake.com/mobile/goods/list/117-1.jpg",
+      "title": "卡通眼镜",
+      "desc": "眼镜",
+      "price": "¥38.00",
+      "sold": 1
+    },
+    {
+      "id": 603,
+      "imgUrl": "http://static1.mescake.com/mobile/goods/list/92-1.jpg",
+      "title": "小瓷猫绿植",
+      "desc": "属于你的春天",
+      "price": "¥58.00",
+      "sold": 1
+    },
+      {
+        "id": 604,
+        "imgUrl": "http://static1.mescake.com/mobile/goods/list/61.jpg",
+        "title": "蜡烛（大）",
+        "desc": "",
+        "price": "¥5.00",
+        "sold": 1
+      }]
+  }]
+}
